@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <templatepath>file:///C:/Program%20Files%20(x86)/Keyman/Keyman%20Developer%2010.0/xml/project/</templatepath>
+  <stringspath>file:///C:/Program%20Files%20(x86)/Keyman/Keyman%20Developer%2010.0/xml/project/</stringspath>
+  <state>&lt;state&gt;&lt;tab&gt;2&lt;/tab&gt;&lt;showhelp&gt;1&lt;/showhelp&gt;&lt;/state&gt;</state>
+  <FileStates>
+    <FileState>
+      <ID>id_0c469a31b2791928a4d18369ebdbf081</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\el_nuer.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Courier New|12|   |0</DebugFont>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_003370f8ae52ce4e225e5f57bddbc2c3</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\el_nuer.kps</FullPath>
+      <IDEState>
+        <CodeFont>Courier New|12|   |0</CodeFont>
+        <CharFont>Courier New|12|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_d59d2bb1c0a5477426e2fab21903b2bb</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\el_nuer.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_92b203f69369ba39e6cbd2b92a31c1e5</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\..\build\el_nuer.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8e7bbd977f5c6d5d4f2bb3c77ff985ff</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\..\build\el_nuer.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_5d3dc3454073d5bea187eaa66822cbae</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\..\build\el_nuer.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f23ac35bfec6fbd60d8f1d92a2d36f2f</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\welcome\el_nuerU_.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0997e0c513842024b122dd1bce79dad2</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\welcome\el_nuerU_RA.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8c14056ac945680ca27ed61a95c8261a</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\welcome\el_nuerU_S.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_6ab4453f01be319932e9360f9bcd1cbc</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\welcome\el_nuerU_SRA.png</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_724e5b4c63f10bc0abf7077f7c3172fc</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\welcome\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>el_nuer.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\el_nuer.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>el_nuer.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>G:\sil\keyboards\release\el\el_nuer\source\el_nuer.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

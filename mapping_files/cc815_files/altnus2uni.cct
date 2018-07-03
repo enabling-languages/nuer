@@ -1,0 +1,245 @@
+c  x-sil-altnuer to unicode conversion  (cc 8.15)
+c  
+c  codepoints x00 to x7F remain as is.
+c  
+c  Andrew Cunningham  25/11/03
+c  for DLIA [http://home.vicnet.net.au/~agamlong/dlia/]
+c  for Naath Online [http://home.vicnet.net.au/~naath/]
+c  
+
+begin > utf8
+
+x20 > u0020
+x21 > u0021
+x22 > u0022
+x23 > u0023
+x24 > u0024
+x25 > u0025
+x26 > u0026
+x27 > u0027
+x28 > u0028
+x29 > u0029
+x2A > u002A
+x2B > u002B
+x2C > u002C
+x2D > u002D
+x2E > u002E
+x2F > u002F
+x30 > u0030
+x31 > u0031
+x32 > u0032
+x33 > u0033
+x34 > u0034
+x35 > u0035
+x36 > u0036
+x37 > u0037
+x38 > u0038
+x39 > u0039
+x3A > u003A
+x3B > u003B
+x3C > u003C
+x3D > u003D
+x3E > u003E
+x3F > u003F
+x40 > u0040
+x41 > u0041
+x42 > u0042
+x43 > u0043
+x44 > u0044
+x45 > u0045
+x46 > u0046
+x47 > u0047
+x48 > u0048
+x49 > u0049
+x4A > u004A
+x4B > u004B
+x4C > u004C
+x4D > u004D
+x4E > u004E
+x4F > u004F
+x50 > u0050
+x51 > u0051
+x52 > u0052
+x53 > u0053
+x54 > u0054
+x55 > u0055
+x56 > u0056
+x57 > u0057
+x58 > u0058
+x59 > u0059
+x5A > u005A
+x5B > u005B
+x5C > u005C
+x5D > u005D
+x5E > u005E
+x5F > u005F
+x60 > u0060
+x61 > u0061
+x62 > u0062
+x63 > u0063
+x64 > u0064
+x65 > u0065
+x66 > u0066
+x67 > u0067
+x68 > u0068
+x69 > u0069
+x6A > u006A
+x6B > u006B
+x6C > u006C
+x6D > u006D
+x6E > u006E
+x6F > u006F
+x70 > u0070
+x71 > u0071
+x72 > u0072
+x73 > u0073
+x74 > u0074
+x75 > u0075
+x76 > u0076
+x77 > u0077
+x78 > u0078
+x79 > u0079
+x7A > u007A
+x7B > u007B
+x7C > u007C
+x7D > u007D
+x7E > u007E
+c  x7F > .notdef
+
+c  x80 > .notdef
+c  x81 > .notdef
+x82 > u0082
+x83 > u0083
+x84 > u0084
+x85 > u0085
+x86 > u0086
+x87 > u0087
+x88 > u0088
+x89 > u0089
+x8A > u008A
+x8B > u008B
+x8C > u008C
+c  x8D > .notdef
+x8E > u008E
+c  x8F > .notdef
+
+c  x90 > .notdef
+x91 > u2018
+x92 > u2019
+x93 > u201C
+x94 > u201D
+x95 > u0095
+x96 > u0096
+x97 > u0097
+x98 > u0098
+x99 > u0099
+x9A > u009A
+x9B > u009B
+x9C > u009C
+c  x9D > .notdef
+x9E > u009E
+x9F > u008F
+
+xA0 > u00A0
+xA1 > u0069 u0331
+xA2 > u0194
+xA3 > u0263
+xA4 > u00A4
+xA5 > u00CB
+xA6 > u00A6
+xA7 > u00A7
+xA8 > u00A8
+xA9 > u00A9
+xAA > u00AA
+xAB > u00AB
+xAC > u00AC
+xAD > u00AD
+xAE > u00AE
+xAF > u00AF
+
+xB0 > u014a
+xB1 > u00B1
+xB2 > u00B2
+xB3 > u00B3
+xB4 > u0190
+xB5 > u00B5
+xB6 > u00B6
+xB7 > u00B7
+xB8 > u00B8
+xB9 > u00B9
+xBA > u0254 u0331
+xBB > u00BB
+xBC > u00BC
+xBD > u00BD
+xBE > u00BE
+xBF > u00BF
+
+xC0 > u00C0
+xC1 > u00C1
+xC2 > u00C2
+xC3 > u00C3
+xC4 > u00C4
+xC5 > u00C5
+xC6 > u00C6
+xC7 > u0186
+xC8 > u0190
+xC9 > u00C9
+xCA > u00CA
+xCB > u00CB
+xCC > u00CC
+xCD > u00CD
+xCE > u00CE
+xCF > u00CF
+
+xD0 > u00D0
+xD1 > u014A
+xD2 > u00D2
+xD3 > u00D3
+xD4 > u00D4
+xD5 > u00D5
+xD6 > u00D6
+xD7 > u00D7
+xD8 > u00D8
+xD9 > u00D9
+xDA > u00DA
+xDB > u00DB
+xDC > u00DC
+xDD > u00DD
+xDE > u00DE
+xDF > u00DF
+
+xE0 > u00E0
+xE1 > u00E1
+xE2 > u00E2
+xE3 > u00E3
+xE4 > u00E4
+xE5 > u0061 u0331
+xE6 > u00E6
+xE7 > u0254
+xE8 > u025B
+xE9 > u00E9
+xEA > u0065 u0331
+xEB > u00EB
+xEC > u00EC
+xED > u00ED
+xEE > u00EE
+xEF > u025B u0331 u0308
+
+xF0 > u025B u0308
+xF1 > u014B
+xF2 > u00F2
+xF3 > u00F3
+xF4 > u006F u0331
+xF5 > u00F5
+xF6 > u00F6
+xF7 > u00F7
+xF8 > u00F8
+xF9 > u00F9
+xFA > u00FA
+xFB > u00FB
+xFC > u00FC
+xFD > u00FD
+xFE > u00FE
+xFF > u00FF
+
+endfile > endfile
