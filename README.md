@@ -1,0 +1,2 @@
+# nuer
+Nuer language resources
